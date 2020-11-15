@@ -1,0 +1,1 @@
+npm install pollmommy -g
